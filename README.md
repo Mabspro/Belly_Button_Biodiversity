@@ -10,6 +10,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 D3, Plotly, Bootstrap
 
 Link for interactive dashboard:
+https://mabspro.github.io/Belly_Button_Biodiversity/
 
 Dataset Link: 
 http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
